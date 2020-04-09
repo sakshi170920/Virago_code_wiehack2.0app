@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632833330598",
+    "firebase_url": "https://pcos-virago-app.firebaseio.com",
+    "project_id": "pcos-virago-app",
+    "storage_bucket": "pcos-virago-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632833330598:android:b88e19fb97b591d534d367",
+        "android_client_info": {
+          "package_name": "com.example.pcos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632833330598-5ohnifu9at7f8jg6s394r4frj8prmioh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pcos_app",
+            "certificate_hash": "eab7749d7acfad1a80550d1559d435801357c0db"
+          }
+        },
+        {
+          "client_id": "632833330598-fss1oo80vc8vkvaa154s7pc5phvsnluc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRrz0iZ5KyhdrlLWm38y6u1M7lwp4NqdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632833330598-fss1oo80vc8vkvaa154s7pc5phvsnluc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
